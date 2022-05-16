@@ -1,6 +1,6 @@
-# Food Ordering Website :
+# :hamburger: Food Ordering Website :pizza: :
 
-A frontend part of the Food Ordering Website using html and css.
+Frontend part of the Food Ordering Website using html and css.
 
 ## Tech Stack :
 
@@ -15,7 +15,7 @@ A frontend part of the Food Ordering Website using html and css.
 ![image](https://user-images.githubusercontent.com/86190033/168530006-81b923b0-58bb-4aaf-921b-abe9ee0325d5.png)
 
 
-## Demo :
+## Demo :arrow_right: :
 
 https://puneet-sys.github.io/Food_Website/
 
