@@ -1,6 +1,6 @@
 # :hamburger: Food Ordering Website :pizza: :
 
-Frontend part of the Food Ordering Website using html and css.
+Frontend of the Food Ordering Website using html and css.
 
 ## Tech Stack :
 
